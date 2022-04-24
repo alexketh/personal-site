@@ -19,7 +19,8 @@ const positions = [
     points: [
       'Drives sales through engagement of customers, suggestive selling, and sharing product knowledge.',
       'Processes payments by totaling purchases, processing checks, cash, and store or other credit and debit cards.',
-      'Greets and receives customers in a welcoming manner.',
+      'Engage and connect with customers to provide excellent service to drive profitable sales growth.',
+      'Promote customer loyalty by educating customers on brand loyalty programs.',
     ],
   },
 ];
