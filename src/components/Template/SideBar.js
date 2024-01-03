@@ -19,11 +19,16 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Alex. I am a CSUS.
-        I am a <a href="https://catalog.csus.edu/colleges/engineering-computer-science/computer-science/bs-in-computer-science/">CSUS Computer Science</a> Graduate.
-        Previously, I was a Software Enginner at <a href="https://www.carnegiehighered.com/fire-engine-red-student-search/">Fire Engine RED</a>.
-        My focus is primarily in front end development,
-        but I am open to develop in any part of the stack.
+      <p>Hi, I&apos;m Alex, a Computer Science graduate
+        from <a href="https://catalog.csus.edu/colleges/engineering-computer-science/computer-science/bs-in-computer-science/">California State University, Sacramento (CSUS)</a>.
+        I bring a wealth of experience as a former
+        Software Engineer at <a href="https://www.carnegiehighered.com/fire-engine-red-student-search/">Fire Engine RED</a>,
+        where I specialized in front-end development.
+        My commitment to excellence extends to all aspects
+        of the software stack, showcasing a versatile skill
+        set and a passion for delivering impactful solutions.
+        Explore my portfolio to discover more about my professional
+        journey and proficiency in software development.
       </p>
       <ul className="actions">
         <li>

@@ -1,6 +1,12 @@
 # Intro
 
-I am the VP of Engineering at Smile Identity, where I work on tools that have helped over 90 million people in Africa gain access to financial services. Before Smile, I was the co-founder & CTO of [Arthena](https://arthena.com) and a co-founder of [Matroid](https://matroid.com). In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects with high social impact. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+Hello, I'm Alex Keth, a seasoned Junior Software Engineer with over a year of expertise in web development, specializing in Vue.js, JavaScript, HTML5, and CSS. I've contributed to enterprise-level, SaaS-based software in Agile/Scrum environments, bringing proficiency in modern frameworks and effective collaboration across teams. My toolkit includes AWS, Vue.js, LEMP stack, Jira, Bitbucket, and Bamboo CI.
+
+In my recent role as a Junior Software Engineer at Fire Engine RED, I've honed my skills, actively engaging in full-stack development, and fostering innovation. Previously, my internship exposed me to cutting-edge technologies like Vue.js, JavaScript, HTML5, CSS, PHP, and Laravel.
+
+My journey also includes valuable experiences as a Recreation Assistant and Sales Associate, where I demonstrated discipline, organizational prowess, and customer-focused sales techniques.
+
+A proud graduate of California State University-Sacramento, I bring a solid foundation in software engineering and a commitment to continuous learning. Eager to contribute my skills and enthusiasm to innovative projects, I'm open to new challenges and opportunities. Let's connect and explore how I can add value to your team!
 
 # Some history
 
