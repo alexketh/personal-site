@@ -1,47 +1,33 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Senior Project',
+    subtitle: 'Revamping Trade Lithography',
+    image: '/images/projects/tradelitho.jpg',
+    date: '2021-12-18',
+    desc: 'Spearheaded the transformation of Trade Lithography\'s digital login infrastructure, '
+    + 'catering to a comprehensive range of services such as lithographic and digital printing, prepress, bindery, mailing, and data processing.'
+    + 'Specialized in wholesale political printing, enhancing the company\'s capabilities through a tailored technological solution.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Oscarpedia',
+    subtitle: 'React Movie Database',
+    link: 'https://github.com/alexketh/oscarpedia',
+    image: '/images/projects/oscarpedia.jpg',
+    date: '2019-06-20',
+    desc: 'Developed a responsive Movie Database and search engine leveraging ReactJS.'
+    + 'The system dynamically pulls comprehensive movie information from TMBD, '
+    + 'The Movie Database, utilizing API requests to ensure up-to-date and accurate data.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+    title: 'Bad Squirrel',
+    subtitle: 'Java Codename One Game',
+    date: 'June 2018 - June 2019',
+    desc: 'Led the implementation of a dynamic and interactive video game utilizing Java'
+    + 'and the Codename One framework. Employed MVC architecture and software engineering'
+    + 'design patterns to create a visually engaging experience. The game involves'
+    + 'controlling a squirrel navigating a track, avoiding collisions with NPCs,'
+    + 'contributing to an immersive gaming experience.',
   },
 ];
 
