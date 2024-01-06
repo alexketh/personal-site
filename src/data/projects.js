@@ -12,7 +12,7 @@ const data = [
   {
     title: 'Oscarpedia',
     subtitle: 'React Movie Database',
-    link: 'https://github.com/alexketh/oscarpedia',
+    link: 'https://alexketh.github.io/oscarpedia/',
     image: '/images/projects/oscarpedia.jpg',
     date: '2019-06-20',
     desc: 'Developed a responsive Movie Database and search engine leveraging ReactJS.'
@@ -22,11 +22,13 @@ const data = [
   {
     title: 'Bad Squirrel',
     subtitle: 'Java Codename One Game',
-    date: 'June 2018 - June 2019',
-    desc: 'Led the implementation of a dynamic and interactive video game utilizing Java'
-    + 'and the Codename One framework. Employed MVC architecture and software engineering'
-    + 'design patterns to create a visually engaging experience. The game involves'
-    + 'controlling a squirrel navigating a track, avoiding collisions with NPCs,'
+    link: 'https://github.com/alexketh/bad_squirrel',
+    image: '/images/projects/badsquirrel.png',
+    date: '2019-06-20',
+    desc: 'Led the implementation of a dynamic and interactive video game utilizing Java '
+    + 'and the Codename One framework. Employed MVC architecture and software engineering '
+    + 'design patterns to create a visually engaging experience. The game involves '
+    + 'controlling a squirrel navigating a track, avoiding collisions with NPCs, '
     + 'contributing to an immersive gaming experience.',
   },
 ];
