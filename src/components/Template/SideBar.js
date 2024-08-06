@@ -13,7 +13,9 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Alex Keth</h2>
-        <p><a href="mailto:alexketh@gmail.com">alexketh@gmail.com</a></p>
+        <p>
+          <a href="mailto:alexketh@gmail.com">alexketh@gmail.com</a>
+        </p>
       </header>
     </section>
 
@@ -32,14 +34,24 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? (
+            <Link to="/resume" className="button">
+              Learn More
+            </Link>
+          ) : (
+            <Link to="/about" className="button">
+              About Me
+            </Link>
+          )}
         </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Alex Keth <Link to="/">https://alexketh.github.io/personal-site/</Link>.</p>
+      <p className="copyright">
+        &copy; Alex Keth <Link to="/">https://alexketh.github.io/personal-site/</Link>.
+      </p>
     </section>
   </section>
 );
