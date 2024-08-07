@@ -13,13 +13,16 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Alex Keth</h2>
-        <p><a href="mailto:alexketh@gmail.com">alexketh@gmail.com</a></p>
+        <p>
+          <a href="mailto:alexketh@gmail.com">alexketh@gmail.com</a>
+        </p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Alex, a Computer Science graduate
+      <p>
+        Hi, I&apos;m Alex, a Computer Science graduate
         from <a href="https://catalog.csus.edu/colleges/engineering-computer-science/computer-science/bs-in-computer-science/">California State University, Sacramento (CSUS)</a>.
         I bring a wealth of experience as a former
         Software Engineer at <a href="https://www.carnegiehighered.com/fire-engine-red-student-search/">Fire Engine RED</a>,
@@ -32,14 +35,24 @@ const SideBar = () => (
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? (
+            <Link to="/resume" className="button">
+              Learn More
+            </Link>
+          ) : (
+            <Link to="/about" className="button">
+              About Me
+            </Link>
+          )}
         </li>
       </ul>
     </section>
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Alex Keth <Link to="/">https://alexketh.github.io/personal-site/</Link>.</p>
+      <p className="copyright">
+        &copy; Alex Keth <Link to="/">https://alexketh.github.io/personal-site/</Link>.
+      </p>
     </section>
   </section>
 );
