@@ -7,8 +7,11 @@ Hey, I'm Alex Keth, a seasoned Junior Software Engineer with over a year of expe
 - At 14, I built my first PC with an i5-4690k and GTX 760.
 - 14 - 17, I played a lot of video games. My favorites included League of Legends, COD: Black Ops 1/2, and Counter-Strike: Global Offensive.
 - At 18, I started my first semester of undergraduate at CSU, Sacramento.
-- At 19, I finished my first year of college with a good understanding of Java.
-- At 22, Valorant was released and potentially doomed me of my career due to my addiction to the game.
+- At 19, I finished my first year of college with a good understanding of Java and Object-Oriented Programming.
+- At 21, I completed my Data Structures and Algoritms class and started peeking interest in Software Development.
+- At 22, I graduated CSU, Sacramento with a Bacheolors of Science in Computer Science
+- At 23, I landed my first Software Engineer Internship at Fire Engine RED and became promoted in place to a Junior Software Engineer.
+- At 24, I am continuous learning about software development and practicing leetcoode.
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
