@@ -1,6 +1,17 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Weather App',
+    subtitle: 'Nuxt.js Weather Dashboard',
+    link: 'https://alexketh.github.io/weather-app-nuxt/',
+    image: '/images/projects/weather-app-nuxt.png',
+    date: '2024-01-21',
+    desc: 'Built a modern weather application using Nuxt.js featuring real-time weather updates '
+    + 'and a 5-day forecast. Integrated OpenWeatherMap API for accurate weather data, '
+    + 'implemented geolocation support, temperature unit conversion, and responsive design '
+    + 'with loading state animations for enhanced user experience.',
+  },
+  {
     title: 'Senior Project',
     subtitle: 'Revamping Trade Lithography',
     image: '/images/projects/tradelitho.jpg',
